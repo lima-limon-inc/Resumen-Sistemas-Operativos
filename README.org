@@ -1,0 +1,17 @@
+* Resumen Sistemas Operatiovs
+Este es un pequeño resumen que hicimos en el 2do cuatrimestre de 2023 para la materia Sistemas Operativos, catedra Mendez.
+
+Antes de usarlo, te pedimos que leas la [[file:Licencse.txt][licencia]] para asegurarte que no estas infrigiendo sobre la misma.
+
+Si ves que hay algo del resumen que podria mejorar/añadir, bienvenimos cualquier tipo de PR.
+
+** Como compilar el tp
+Para compilarlo solo necesitas algun compilador de ~Latex~ y el paquete "minted" para que las secciones de  codigo se vea con colores.
+
+Comando (en caso de que uses Tex Live)
+#+begin_src shell
+    pdflatex -synctex=1 -interaction=nonstopmode --shell-escape %.tex
+#+end_src
+
+** Otras paginas de interes:
+- El [[https://github.com/brunograssano/Sistemas-operativos-fiuba][reposistorio de Bruno]] tambien tiene un resumen, lo podes usar para complementar este 
