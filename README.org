@@ -10,7 +10,7 @@ Para compilarlo solo necesitas algun compilador de ~Latex~ y el paquete "minted"
 
 Comando (en caso de que uses Tex Live)
 #+begin_src shell
-    pdflatex -synctex=1 -interaction=nonstopmode --shell-escape %.tex
+    pdflatex -synctex=1 -interaction=nonstopmode --shell-escape resumen.tex
 #+end_src
 
 ** Otras paginas de interes:
