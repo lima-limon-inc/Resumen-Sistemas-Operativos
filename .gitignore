@@ -1,0 +1,7 @@
+_minted-resumen/*
+*.aux
+*.log
+*.out
+*.synctex.*
+*.docx
+*.log
