@@ -14,12 +14,16 @@ Comando para generar pdf:
 #+end_src
 
 Comando para generar imagenes:
+ADVERTENCIA: Depende de imagemagick
 #+begin_src shell
     make png
 #+end_src
 
 ** Otras paginas de interes:
-- El [[https://github.com/brunograssano/Sistemas-operativos-fiuba][reposistorio de Bruno]] tambien tiene un resumen, lo podes usar para complementar este 
+- El [[https://github.com/brunograssano/Sistemas-operativos-fiuba][reposistorio de Bruno]] tambien tiene un resumen, lo podes usar para complementar este
+
+** Resumen en pdf
+[[file:resumen.pdf][Resumen]]
 
 ** Resumen en imagenes
 [[./resumen-imagenes/resumen-0.png]]
