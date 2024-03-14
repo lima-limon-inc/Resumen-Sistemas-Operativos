@@ -1,6 +1,7 @@
 _minted-resumen/*
 *.aux
 *.log
+*.toc
 *.out
 *.synctex.*
 *.docx
