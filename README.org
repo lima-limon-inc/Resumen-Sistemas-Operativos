@@ -8,9 +8,14 @@ Si ves que hay algo del resumen que podria mejorar/añadir, bienvenimos cualquie
 ** Como compilar el tp
 Para compilarlo solo necesitas algun compilador de ~Latex~ y el paquete "minted" para que las secciones de  codigo se vea con colores.
 
-Comando (en caso de que uses Tex Live)
+Comando para generar pdf:
 #+begin_src shell
-    pdflatex -synctex=1 -interaction=nonstopmode --shell-escape resumen.tex
+    make 
+#+end_src
+
+Comando para generar imagenes:
+#+begin_src shell
+    make png
 #+end_src
 
 ** Otras paginas de interes:
