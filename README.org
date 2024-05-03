@@ -1,7 +1,7 @@
 * Resumen Sistemas Operatiovs
 Este es un pequeño resumen que hicimos en el 2do cuatrimestre de 2023 para la materia Sistemas Operativos, catedra Mendez.
 
-Antes de usarlo, te pedimos que leas la [[file:Licencse.txt][licencia]] para asegurarte que no estas infrigiendo sobre la misma.
+Antes de usarlo, te pedimos que leas la [[file:LICENSE][licencia]] para asegurarte que no estas infrigiendo sobre la misma.
 
 Si ves que hay algo del resumen que podria mejorar/añadir, bienvenimos cualquier tipo de PR.
 
